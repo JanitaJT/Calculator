@@ -1,6 +1,6 @@
 # Calculator
 
-A calculator made for a school project. The calculator works solely in the console and is able to to do the following calculations:
+A calculator made for a school project. The calculator works solely in the console and is able to to do the following calculations: <br/>
 Addtion <br/>
 Subtraction <br/>
 Multiplying <br/>
